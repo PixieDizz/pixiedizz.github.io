@@ -9,7 +9,7 @@ First weekly log, covering November 16 through 22.
 
 ## Spanish
 
-482 reviews for the week, plus 105 minutes progressing through Wlingua. I'm on lesson 8, "gender and plural of adjectives."
+482 flashcard reviews for the week, plus 105 minutes progressing through Wlingua. I'm on lesson 8, "gender and plural of adjectives."
 
 ## TryHackMe
 
@@ -31,4 +31,4 @@ Consistent with how coursework is handled here: titles and scope only, not the p
 
 ## What's next
 
-Keep moving through the Command Line module on TryHackMe, keep the review volume up in Spanish, and stack more ExamCompass topics on top of the three I've covered.
+Keep moving through the Command Line module on TryHackMe, keep the flashcard review volume up in Spanish, and stack more ExamCompass topics on top of the three I've covered.
