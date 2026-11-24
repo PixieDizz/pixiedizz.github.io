@@ -27,8 +27,6 @@ Two papers finished on November 22:
 - **ISSC642 — Intrusion Detection and Incident Handling:** "The Future of Intrusion Detection: Emerging Threats, Learning Systems, and the Leadership Problem"
 - **ISSC660 — Information Assurance:** "Modernizing Authentication and Access Control: Lifecycle Assurance, Model Selection, and Operational Safeguards"
 
-Consistent with how coursework is handled here: titles and scope only, not the papers themselves.
-
 ## What's next
 
 Keep moving through the Command Line module on TryHackMe, keep the flashcard review volume up in Spanish, and stack more ExamCompass topics on top of the three I've covered.
